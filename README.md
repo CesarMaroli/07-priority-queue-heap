@@ -70,4 +70,4 @@ Ordem de atendimento dos pacientes de teste:
 3. Beatriz (Amarelo) - maior espera e vulnerável
 4. João (Amarelo) - menor espera
 5. Helena (Verde) - mesma espera de Carlos, mas vulnerável
-6. Carlos (Verde) - última prioridade
+6. Carlos (Verde) - última prioridade.
